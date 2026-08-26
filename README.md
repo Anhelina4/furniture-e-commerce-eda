@@ -4,4 +4,4 @@ This notebook presents a comprehensive exploratory analysis of an online store's
 
 Data Source: Google BigQuery — DA dataset Tables used: session, session_params, order, product, account, account_session
 
-Tableau Presenation: [Furniture E-commerce: What Moves Revenue and What Doesn't](https://public.tableau.com/views/FurnitureE-commerceTheWeeklyRhythmBehindRevenue/Whenpeoplebuy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau Presentaion: [Furniture E-commerce: What Moves Revenue and What Doesn't](https://public.tableau.com/views/FurnitureE-commerceTheWeeklyRhythmBehindRevenue/Whenpeoplebuy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
